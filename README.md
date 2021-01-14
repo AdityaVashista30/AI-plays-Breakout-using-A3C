@@ -1,7 +1,7 @@
 # AI-plays-Breakout-using-A3C
 It is an Artificial Intelligence project where a computer learns to play Breakout game using the A3C model and using environment space from Open AI Gym.
 
-The A3C model is made up of a combination of CNN, RNN, and ANN layers having 2 outputs. The model has 5 Convolutional Layers followed by LSTM (RNN) layer, followed by 2 hidden ANN layers and final two output layers: actor and critic.
+The A3C model is made up of a combination of CNN, RNN, and ANN layers having 2 outputs. The model has 5 Convolutional Layers followed by LSTM (RNN) layer, followed by 2 hidden ANN layers and final output layer having 2 outpus: actor and critic.
 The CNN layers are used by AI to visualize the environment/game; LSTM is used to keep memory and track of game movements; ANN layers to analyze the situation and predict the suitable outputs.
 
 
